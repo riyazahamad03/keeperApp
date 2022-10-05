@@ -1,3 +1,3 @@
 # keeperApp
-You can access the website using the below link:
+You can access the website using the link:
 https://jykip9.csb.app/
